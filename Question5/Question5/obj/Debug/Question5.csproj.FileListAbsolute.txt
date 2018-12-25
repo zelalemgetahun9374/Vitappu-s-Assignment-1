@@ -1,0 +1,6 @@
+/Users/eandualem/Desktop/Zola/Question5/Question5/Question5/bin/Debug/Question5.exe
+/Users/eandualem/Desktop/Zola/Question5/Question5/Question5/bin/Debug/Question5.pdb
+/Users/eandualem/Desktop/Zola/Question5/Question5/Question5/obj/Debug/Question5.csprojResolveAssemblyReference.cache
+/Users/eandualem/Desktop/Zola/Question5/Question5/Question5/obj/Debug/Question5.csproj.CoreCompileInputs.cache
+/Users/eandualem/Desktop/Zola/Question5/Question5/Question5/obj/Debug/Question5.exe
+/Users/eandualem/Desktop/Zola/Question5/Question5/Question5/obj/Debug/Question5.pdb
